@@ -1,0 +1,3 @@
+[submodule "caffe-mask-vos-rcnn"]
+	path = caffe-mask-vos-rcnn
+	url = https://github.com/YeLyuUT/caffe-mask-vos-rcnn.git
